@@ -6,6 +6,7 @@ function App() {
     <div className="App">
         {/* Hello Diyor doston  */}
         {/* Helo joha bot */}
+        {/* Doston bot Diyorchik Xa Xa XA */}
       <div style={{width: '100%', height: '100%', position: 'relative', background: 'white'}}>
     <div style={{width: 1920, height: 50, left: 0, top: 0, position: 'absolute'}}>
         <div style={{width: 1920, height: 50, left: 0, top: 0, position: 'absolute', background: '#EFEFEF'}} />
