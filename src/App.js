@@ -4,8 +4,7 @@ import { Pages } from './Pages';
 function App() {
   return (
     <div className="App">
-        {/* Hello Diyor doston  */}
-        {/* Helo joha bot */}
+        {/* San dostonchik chik chik botsan ha ha ha codlarni figmadan olganingni domlga aytib beraymi bot */}
       <div style={{width: '100%', height: '100%', position: 'relative', background: 'white'}}>
     <div style={{width: 1920, height: 50, left: 0, top: 0, position: 'absolute'}}>
         <div style={{width: 1920, height: 50, left: 0, top: 0, position: 'absolute', background: '#EFEFEF'}} />
